@@ -13,7 +13,7 @@
 | 09.      |Minimize the Maximum Difference Between Heights <img src="https://img.shields.io/badge/Important-blueviolet"> | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
 | 10.      |Minimum No. of Jumps to Reach End of Array | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
 | 11.      |Find Duplicate in an Array of N+1 Integers  | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
-| 12.      |Merge Two Sorted Array Without Using Extra Space | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
+| 12.      |Merge Two Sorted Arrays Without Using Extra Space | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
 | 13.      |Kadane's Algorithm <img src="https://img.shields.io/badge/Important-blueviolet">  | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
 | 14.      |Merge Intervals | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
 | 15.      |Next Permutation  | <img src="https://img.shields.io/badge/Awaiting-orange"> | <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
